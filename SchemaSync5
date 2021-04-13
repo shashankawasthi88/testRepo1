@@ -37,7 +37,7 @@
             "description": "Details about a user",
             "headers": {
               "x-next": {
-                "description": "A link to the next page of responses",
+                "description": "A link to the next page of responses.....",
                 "schema": {
                   "type": "string"
                 }
